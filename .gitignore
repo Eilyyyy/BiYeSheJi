@@ -43,6 +43,14 @@ Temporary Items
 .apdisk
 *.swp
 *.bin
+*.checkpoint
+*ShaderCache*
+*PCTOC*
+*.log
+*.obj
+*IphoneTOC*
+*.dmp
+*.u
 DM/Binaries/
 DM/Intermediate/
 DM/Saved/
